@@ -1,7 +1,7 @@
 
 # SarosFlow - Next.js scaffold (auto-generated)
 
-This project was generated from Stitch-exported HTML screens and packaged into a minimal Next.js scaffold for rapid handoff.
+This project was generated from Figma-exported HTML screens and packaged into a minimal Next.js scaffold for rapid handoff.
 
 ## What is included
 - Next.js app with pages:
@@ -24,6 +24,6 @@ This project was generated from Stitch-exported HTML screens and packaged into a
    ```
 3. Open http://localhost:3000
 
-Note: The Stitch HTML is injected into pages using `dangerouslySetInnerHTML` to preserve layout quickly.
+Note: The Figma HTML is injected into pages using `dangerouslySetInnerHTML` to preserve layout quickly.
 For production use, a developer should refactor the HTML into React components and integrate the Saros DLMM SDK.
 
