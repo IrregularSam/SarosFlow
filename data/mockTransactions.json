@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "Rebalance",
+    "pair": "SOL/USDC",
+    "amount": "250 USDC",
+    "status": "Success",
+    "date": "2025-09-20 14:32"
+  },
+  {
+    "id": 2,
+    "type": "Deposit",
+    "pair": "SOL/USDC",
+    "amount": "2 SOL",
+    "status": "Success",
+    "date": "2025-09-18 09:15"
+  },
+  {
+    "id": 3,
+    "type": "Withdraw",
+    "pair": "SOL/USDC",
+    "amount": "100 USDC",
+    "status": "Pending",
+    "date": "2025-09-17 21:48"
+  }
+]
